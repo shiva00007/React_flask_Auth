@@ -2,7 +2,7 @@ Certainly! Below is an updated README file that includes instructions for settin
 
 ---
 
-# Project Name
+# React Flask Authentication
 
 ## Description
 
